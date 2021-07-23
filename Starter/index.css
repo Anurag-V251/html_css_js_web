@@ -1,0 +1,16 @@
+#name{
+    font-family: sans-serif;
+    color: blue;
+    font-weight: 650;
+
+}
+
+#tgl{
+    border-radius: 2px;
+    border: 2px solid black;
+    font-family: Centaur;
+}
+
+#red{
+    color: red;
+}
